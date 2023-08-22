@@ -1,0 +1,46 @@
+- .env
+- .eslintrc.json
+- .gitignore
+- jsconfig.json
+- next.config.js
+- package-lock.json
+- package.json
+- postcss.config.js
+- public
+  - next.svg
+  - vercel.svg
+- README.md
+- src
+  - app
+    - favicon.ico
+    - globals.css
+    - layout.js
+    - page.js
+    - page2.js
+  - components
+    - client-components
+      - AccessibilityMsgInput.js
+      - Authentication.js
+      - Disclosure-Component.js
+      - EmojiPicker.js
+      - ExportTranscript.js
+      - FileAttachment.js
+      - MessageInput.js
+      - PrivacySettings.js
+      - SearchConversations.js
+      - UIPersonalization.js
+      - UserProfileSettings.js
+      - VoiceInput.js
+    - server-components
+      - avatarripple1.js
+      - avatarripple2.js
+      - avatarripple3.js
+      - ChatWindow.js
+      - ConversationHistory.js
+      - NotificationSystems.js
+      - ReadReceipt.js
+      - RealTimeChat.js
+      - SupabaseClient-opt2.js
+      - supabaseClient.js
+      - TypingIndicator.js
+- tailwind.config.js
